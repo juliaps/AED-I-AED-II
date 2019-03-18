@@ -1,2 +1,3 @@
 # AEDI
-depois eu faço 
+gcc -Wall -o nome programa.c
+./nome 
