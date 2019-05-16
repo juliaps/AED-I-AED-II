@@ -1,4 +1,4 @@
 # AEDI
-gcc -Wall -o nome programa.c
+gcc -o nome programa.c
 
 ./nome 
