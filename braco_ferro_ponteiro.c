@@ -1,5 +1,5 @@
 // braço de ferro
-// Júlia dos Passos Saraiva RA:103228
+// Júlia P.S.
  
 #include<stdio.h>
 #include<stdlib.h>
