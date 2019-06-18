@@ -1,5 +1,5 @@
 //Arvore Rubro-Negro Remoção
-//Julia dos Passos Saraiva
+//Julia P.S.
  
 #include<stdio.h>
 #include<stdlib.h>
