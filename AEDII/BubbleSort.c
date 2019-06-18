@@ -1,5 +1,5 @@
 //BubbleSort
-//Júlia dos Passos Saraiva RA:103328
+//Júlia P.S.
  
 #include<stdio.h>
 #include<stdlib.h>
