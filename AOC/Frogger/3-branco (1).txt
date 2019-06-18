@@ -1,0 +1,1812 @@
+li $t1, 0xffffff #atribui a cor
+
+li $t3, 0x10013c8c
+loop0:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013cc0, loop0
+li $t3, 0x10013ce0
+loop1:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013d00, loop1
+li $t3, 0x10013d24
+loop2:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013d38, loop2
+li $t3, 0x10013d58
+loop3:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013d70, loop3
+li $t3, 0x10013d78
+loop4:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013dc4, loop4
+li $t3, 0x10013e30
+loop5:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013e68, loop5
+li $t3, 0x10013e7c
+loop6:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013e94, loop6
+li $t3, 0x10013eb4
+loop7:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013ec8, loop7
+li $t3, 0x10013ed4
+loop8:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013f20, loop8
+li $t3, 0x10013f2c
+loop9:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10013f6c, loop9
+li $t3, 0x1001408c
+loop10:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100140c0, loop10
+li $t3, 0x100140e0
+loop11:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014100, loop11
+li $t3, 0x10014124
+loop12:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014138, loop12
+li $t3, 0x10014158
+loop13:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014170, loop13
+li $t3, 0x10014178
+loop14:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100141c4, loop14
+li $t3, 0x10014230
+loop15:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014268, loop15
+li $t3, 0x1001427c
+loop16:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014294, loop16
+li $t3, 0x100142b4
+loop17:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100142c8, loop17
+li $t3, 0x100142d4
+loop18:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014320, loop18
+li $t3, 0x1001432c
+loop19:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001436c, loop19
+li $t3, 0x10014480
+loop20:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014494, loop20
+li $t3, 0x100144d8
+loop21:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100144ec, loop21
+li $t3, 0x100144f8
+loop22:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001450c, loop22
+li $t3, 0x10014524
+loop23:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014544, loop23
+li $t3, 0x1001454c
+loop24:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014570, loop24
+li $t3, 0x10014578
+loop25:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014590, loop25
+li $t3, 0x10014628
+loop26:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001463c, loop26
+li $t3, 0x1001465c
+loop27:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014674, loop27
+li $t3, 0x1001467c
+loop28:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014694, loop28
+li $t3, 0x100146b4
+loop29:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100146c8, loop29
+li $t3, 0x100146d4
+loop30:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100146ec, loop30
+li $t3, 0x1001472c
+loop31:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014740, loop31
+li $t3, 0x10014760
+loop32:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014778, loop32
+li $t3, 0x10014874
+loop33:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001488c, loop33
+li $t3, 0x100148cc
+loop34:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100148e0, loop34
+li $t3, 0x10014900
+loop35:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014918, loop35
+li $t3, 0x10014924
+loop36:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014970, loop36
+li $t3, 0x10014978
+loop37:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014990, loop37
+li $t3, 0x10014a28
+loop38:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014a3c, loop38
+li $t3, 0x10014a5c
+loop39:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014a74, loop39
+li $t3, 0x10014a7c
+loop40:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014a94, loop40
+li $t3, 0x10014ab4
+loop41:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014ac8, loop41
+li $t3, 0x10014ad4
+loop42:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014aec, loop42
+li $t3, 0x10014b2c
+loop43:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014b40, loop43
+li $t3, 0x10014b60
+loop44:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014b78, loop44
+li $t3, 0x10014c74
+loop45:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014c8c, loop45
+li $t3, 0x10014ccc
+loop46:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014ce0, loop46
+li $t3, 0x10014d00
+loop47:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014d18, loop47
+li $t3, 0x10014d24
+loop48:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014d70, loop48
+li $t3, 0x10014d78
+loop49:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014d90, loop49
+li $t3, 0x10014e28
+loop50:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014e3c, loop50
+li $t3, 0x10014e5c
+loop51:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014e74, loop51
+li $t3, 0x10014e7c
+loop52:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014e94, loop52
+li $t3, 0x10014eb4
+loop53:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014ec8, loop53
+li $t3, 0x10014ed4
+loop54:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014eec, loop54
+li $t3, 0x10014f2c
+loop55:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014f40, loop55
+li $t3, 0x10014f60
+loop56:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10014f78, loop56
+li $t3, 0x10015074
+loop57:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001508c, loop57
+li $t3, 0x100150a0
+loop58:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100150c0, loop58
+li $t3, 0x100150cc
+loop59:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100150e0, loop59
+li $t3, 0x10015100
+loop60:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015118, loop60
+li $t3, 0x10015124
+loop61:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015170, loop61
+li $t3, 0x10015178
+loop62:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100151bc, loop62
+li $t3, 0x10015228
+loop63:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001523c, loop63
+li $t3, 0x1001525c
+loop64:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015274, loop64
+li $t3, 0x1001527c
+loop65:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100152a0, loop65
+li $t3, 0x100152a8
+loop66:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100152c8, loop66
+li $t3, 0x100152d4
+loop67:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015314, loop67
+li $t3, 0x1001532c
+loop68:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015340, loop68
+li $t3, 0x10015358
+loop69:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015378, loop69
+li $t3, 0x10015474
+loop70:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001548c, loop70
+li $t3, 0x100154a0
+loop71:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100154c0, loop71
+li $t3, 0x100154cc
+loop72:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100154e0, loop72
+li $t3, 0x10015500
+loop73:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015518, loop73
+li $t3, 0x10015524
+loop74:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015570, loop74
+li $t3, 0x10015578
+loop75:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100155bc, loop75
+li $t3, 0x10015628
+loop76:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001563c, loop76
+li $t3, 0x1001565c
+loop77:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015674, loop77
+li $t3, 0x1001567c
+loop78:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100156a0, loop78
+li $t3, 0x100156a8
+loop79:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100156c8, loop79
+li $t3, 0x100156d4
+loop80:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015714, loop80
+li $t3, 0x1001572c
+loop81:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015740, loop81
+li $t3, 0x10015758
+loop82:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015778, loop82
+li $t3, 0x10015874
+loop83:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001588c, loop83
+li $t3, 0x100158ac
+loop84:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100158c0, loop84
+li $t3, 0x100158cc
+loop85:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015918, loop85
+li $t3, 0x10015924
+loop86:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015938, loop86
+li $t3, 0x10015944
+loop87:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001594c, loop87
+li $t3, 0x10015958
+loop88:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015970, loop88
+li $t3, 0x10015978
+loop89:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015990, loop89
+li $t3, 0x10015a28
+loop90:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015a3c, loop90
+li $t3, 0x10015a5c
+loop91:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015a74, loop91
+li $t3, 0x10015a88
+loop92:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015ac0, loop92
+li $t3, 0x10015ad4
+loop93:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015aec, loop93
+li $t3, 0x10015b2c
+loop94:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015b60, loop94
+li $t3, 0x10015c74
+loop95:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015c8c, loop95
+li $t3, 0x10015cac
+loop96:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015cc0, loop96
+li $t3, 0x10015ccc
+loop97:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015d18, loop97
+li $t3, 0x10015d24
+loop98:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015d38, loop98
+li $t3, 0x10015d44
+loop99:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015d4c, loop99
+li $t3, 0x10015d58
+loop100:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015d70, loop100
+li $t3, 0x10015d78
+loop101:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015d90, loop101
+li $t3, 0x10015e28
+loop102:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015e3c, loop102
+li $t3, 0x10015e5c
+loop103:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015e74, loop103
+li $t3, 0x10015e88
+loop104:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015ec0, loop104
+li $t3, 0x10015ed4
+loop105:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015eec, loop105
+li $t3, 0x10015f2c
+loop106:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10015f60, loop106
+li $t3, 0x10016080
+loop107:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016094, loop107
+li $t3, 0x100160ac
+loop108:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100160c0, loop108
+li $t3, 0x100160cc
+loop109:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100160e0, loop109
+li $t3, 0x10016100
+loop110:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016118, loop110
+li $t3, 0x10016124
+loop111:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016138, loop111
+li $t3, 0x10016158
+loop112:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016170, loop112
+li $t3, 0x10016178
+loop113:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016190, loop113
+li $t3, 0x10016228
+loop114:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001623c, loop114
+li $t3, 0x1001625c
+loop115:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016274, loop115
+li $t3, 0x10016294
+loop116:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100162b4, loop116
+li $t3, 0x100162d4
+loop117:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100162ec, loop117
+li $t3, 0x1001632c
+loop118:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016340, loop118
+li $t3, 0x1001634c
+loop119:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001636c, loop119
+li $t3, 0x1001648c
+loop120:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100164c0, loop120
+li $t3, 0x100164cc
+loop121:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100164e0, loop121
+li $t3, 0x10016500
+loop122:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016518, loop122
+li $t3, 0x10016524
+loop123:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016538, loop123
+li $t3, 0x10016558
+loop124:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016570, loop124
+li $t3, 0x10016578
+loop125:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100165c4, loop125
+li $t3, 0x10016630
+loop126:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016668, loop126
+li $t3, 0x100166a0
+loop127:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100166a8, loop127
+li $t3, 0x100166d4
+loop128:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016720, loop128
+li $t3, 0x1001672c
+loop129:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016740, loop129
+li $t3, 0x10016758
+loop130:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016778, loop130
+li $t3, 0x1001688c
+loop131:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100168c0, loop131
+li $t3, 0x100168cc
+loop132:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100168e0, loop132
+li $t3, 0x10016900
+loop133:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016918, loop133
+li $t3, 0x10016924
+loop134:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016938, loop134
+li $t3, 0x10016958
+loop135:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016970, loop135
+li $t3, 0x10016978
+loop136:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100169c4, loop136
+li $t3, 0x10016a30
+loop137:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016a68, loop137
+li $t3, 0x10016aa0
+loop138:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016aa8, loop138
+li $t3, 0x10016ad4
+loop139:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016b20, loop139
+li $t3, 0x10016b2c
+loop140:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016b40, loop140
+li $t3, 0x10016b58
+loop141:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10016b78, loop141
+li $t3, 0x1001a148
+loop142:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001a16c, loop142
+li $t3, 0x1001a280
+loop143:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001a2a0, loop143
+li $t3, 0x1001a538
+loop144:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001a57c, loop144
+li $t3, 0x1001a670
+loop145:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001a6b4, loop145
+li $t3, 0x1001a92c
+loop146:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001a984, loop146
+li $t3, 0x1001aa64
+loop147:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001aabc, loop147
+li $t3, 0x1001ad24
+loop148:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ad58, loop148
+li $t3, 0x1001ad70
+loop149:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ad8c, loop149
+li $t3, 0x1001ae5c
+loop150:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ae7c, loop150
+li $t3, 0x1001ae94
+loop151:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001aec4, loop151
+li $t3, 0x1001b120
+loop152:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b164, loop152
+li $t3, 0x1001b178
+loop153:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b194, loop153
+li $t3, 0x1001b254
+loop154:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b270, loop154
+li $t3, 0x1001b288
+loop155:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b2cc, loop155
+li $t3, 0x1001b51c
+loop156:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b56c, loop156
+li $t3, 0x1001b584
+loop157:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b5a0, loop157
+li $t3, 0x1001b648
+loop158:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b668, loop158
+li $t3, 0x1001b680
+loop159:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b6d0, loop159
+li $t3, 0x1001b914
+loop160:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b930, loop160
+li $t3, 0x1001b958
+loop161:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b970, loop161
+li $t3, 0x1001b98c
+loop162:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001b9a8, loop162
+li $t3, 0x1001ba40
+loop163:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ba60, loop163
+li $t3, 0x1001ba78
+loop164:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ba94, loop164
+li $t3, 0x1001babc
+loop165:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001bad4, loop165
+li $t3, 0x1001bd10
+loop166:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001bd28, loop166
+li $t3, 0x1001bd60
+loop167:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001bd74, loop167
+li $t3, 0x1001bd94
+loop168:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001bdb4, loop168
+li $t3, 0x1001be34
+loop169:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001be58, loop169
+li $t3, 0x1001be74
+loop170:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001be8c, loop170
+li $t3, 0x1001bec4
+loop171:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001bed8, loop171
+li $t3, 0x1001c10c
+loop172:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c120, loop172
+li $t3, 0x1001c164
+loop173:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c178, loop173
+li $t3, 0x1001c19c
+loop174:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c1c4, loop174
+li $t3, 0x1001c228
+loop175:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c24c, loop175
+li $t3, 0x1001c270
+loop176:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c284, loop176
+li $t3, 0x1001c2c8
+loop177:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c2dc, loop177
+li $t3, 0x1001c508
+loop178:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c51c, loop178
+li $t3, 0x1001c568
+loop179:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c57c, loop179
+li $t3, 0x1001c5a8
+loop180:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c5d8, loop180
+li $t3, 0x1001c614
+loop181:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c640, loop181
+li $t3, 0x1001c66c
+loop182:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c680, loop182
+li $t3, 0x1001c6cc
+loop183:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c6e0, loop183
+li $t3, 0x1001c908
+loop184:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c918, loop184
+li $t3, 0x1001c928
+loop185:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c938, loop185
+li $t3, 0x1001c94c
+loop186:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c95c, loop186
+li $t3, 0x1001c96c
+loop187:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001c980, loop187
+li $t3, 0x1001c9b4
+loop188:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ca34, loop188
+li $t3, 0x1001ca68
+loop189:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ca7c, loop189
+li $t3, 0x1001ca90
+loop190:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ca9c, loop190
+li $t3, 0x1001cab4
+loop191:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cac0, loop191
+li $t3, 0x1001cad0
+loop192:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cae4, loop192
+li $t3, 0x1001cd04
+loop193:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cd18, loop193
+li $t3, 0x1001cd28
+loop194:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cd38, loop194
+li $t3, 0x1001cd4c
+loop195:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cd5c, loop195
+li $t3, 0x1001cd70
+loop196:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cd84, loop196
+li $t3, 0x1001cdc4
+loop197:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ce24, loop197
+li $t3, 0x1001ce68
+loop198:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ce78, loop198
+li $t3, 0x1001ce90
+loop199:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ce9c, loop199
+li $t3, 0x1001ceb4
+loop200:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cec0, loop200
+li $t3, 0x1001ced4
+loop201:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001cee4, loop201
+li $t3, 0x1001d104
+loop202:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d114, loop202
+li $t3, 0x1001d128
+loop203:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d140, loop203
+li $t3, 0x1001d148
+loop204:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d15c, loop204
+li $t3, 0x1001d170
+loop205:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d184, loop205
+li $t3, 0x1001d1e4
+loop206:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d208, loop206
+li $t3, 0x1001d268
+loop207:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d278, loop207
+li $t3, 0x1001d290
+loop208:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d2a4, loop208
+li $t3, 0x1001d2ac
+loop209:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d2c0, loop209
+li $t3, 0x1001d2d4
+loop210:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d2e8, loop210
+li $t3, 0x1001d504
+loop211:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d514, loop211
+li $t3, 0x1001d530
+loop212:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d554, loop212
+li $t3, 0x1001d574
+loop213:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d584, loop213
+li $t3, 0x1001d668
+loop214:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d678, loop214
+li $t3, 0x1001d694
+loop215:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d6bc, loop215
+li $t3, 0x1001d6d4
+loop216:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d6e8, loop216
+li $t3, 0x1001d904
+loop217:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d914, loop217
+li $t3, 0x1001d938
+loop218:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d94c, loop218
+li $t3, 0x1001d974
+loop219:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001d984, loop219
+li $t3, 0x1001da68
+loop220:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001da78, loop220
+li $t3, 0x1001da9c
+loop221:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001dab4, loop221
+li $t3, 0x1001dad8
+loop222:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001dae8, loop222
+li $t3, 0x1001dd04
+loop223:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001dd14, loop223
+li $t3, 0x1001dd30
+loop224:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001dd54, loop224
+li $t3, 0x1001dd74
+loop225:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001dd84, loop225
+li $t3, 0x1001de68
+loop226:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001de78, loop226
+li $t3, 0x1001de94
+loop227:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001debc, loop227
+li $t3, 0x1001ded8
+loop228:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001dee8, loop228
+li $t3, 0x1001e104
+loop229:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e114, loop229
+li $t3, 0x1001e128
+loop230:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e140, loop230
+li $t3, 0x1001e148
+loop231:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e15c, loop231
+li $t3, 0x1001e174
+loop232:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e184, loop232
+li $t3, 0x1001e268
+loop233:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e278, loop233
+li $t3, 0x1001e290
+loop234:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e2a4, loop234
+li $t3, 0x1001e2ac
+loop235:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e2c0, loop235
+li $t3, 0x1001e2d4
+loop236:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e2e8, loop236
+li $t3, 0x1001e504
+loop237:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e514, loop237
+li $t3, 0x1001e528
+loop238:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e538, loop238
+li $t3, 0x1001e54c
+loop239:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e55c, loop239
+li $t3, 0x1001e570
+loop240:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e584, loop240
+li $t3, 0x1001e668
+loop241:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e678, loop241
+li $t3, 0x1001e690
+loop242:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e69c, loop242
+li $t3, 0x1001e6b4
+loop243:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e6c0, loop243
+li $t3, 0x1001e6d4
+loop244:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e6e4, loop244
+li $t3, 0x1001e908
+loop245:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e918, loop245
+li $t3, 0x1001e928
+loop246:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e938, loop246
+li $t3, 0x1001e94c
+loop247:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e95c, loop247
+li $t3, 0x1001e970
+loop248:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001e980, loop248
+li $t3, 0x1001ea68
+loop249:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ea7c, loop249
+li $t3, 0x1001ea90
+loop250:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ea9c, loop250
+li $t3, 0x1001eab4
+loop251:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001eac0, loop251
+li $t3, 0x1001ead4
+loop252:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001eae4, loop252
+li $t3, 0x1001ed08
+loop253:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ed1c, loop253
+li $t3, 0x1001ed6c
+loop254:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ed80, loop254
+li $t3, 0x1001ee6c
+loop255:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001ee7c, loop255
+li $t3, 0x1001eed0
+loop256:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001eee0, loop256
+li $t3, 0x1001f108
+loop257:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f11c, loop257
+li $t3, 0x1001f168
+loop258:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f17c, loop258
+li $t3, 0x1001f26c
+loop259:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f280, loop259
+li $t3, 0x1001f2cc
+loop260:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f2e0, loop260
+li $t3, 0x1001f50c
+loop261:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f524, loop261
+li $t3, 0x1001f564
+loop262:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f578, loop262
+li $t3, 0x1001f5d8
+loop263:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f5e0, loop263
+li $t3, 0x1001f608
+loop264:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f614, loop264
+li $t3, 0x1001f670
+loop265:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f684, loop265
+li $t3, 0x1001f6c8
+loop266:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f6dc, loop266
+li $t3, 0x1001f90c
+loop267:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f928, loop267
+li $t3, 0x1001f95c
+loop268:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f974, loop268
+li $t3, 0x1001f9d4
+loop269:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001f9e4, loop269
+li $t3, 0x1001fa08
+loop270:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fa18, loop270
+li $t3, 0x1001fa74
+loop271:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fa8c, loop271
+li $t3, 0x1001fac0
+loop272:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fae0, loop272
+li $t3, 0x1001fd08
+loop273:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fd34, loop273
+li $t3, 0x1001fd54
+loop274:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fd70, loop274
+li $t3, 0x1001fdd4
+loop275:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fde4, loop275
+li $t3, 0x1001fe08
+loop276:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fe18, loop276
+li $t3, 0x1001fe78
+loop277:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fe98, loop277
+li $t3, 0x1001feb4
+loop278:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1001fee0, loop278
+li $t3, 0x10020100
+loop279:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020118, loop279
+li $t3, 0x10020120
+loop280:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020168, loop280
+li $t3, 0x100201d4
+loop281:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100201e4, loop281
+li $t3, 0x10020208
+loop282:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020218, loop282
+li $t3, 0x10020280
+loop283:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100202cc, loop283
+li $t3, 0x100202d0
+loop284:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100202e8, loop284
+li $t3, 0x100204fc
+loop285:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020514, loop285
+li $t3, 0x10020528
+loop286:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020560, loop286
+li $t3, 0x1002068c
+loop287:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100206c4, loop287
+li $t3, 0x100206d8
+loop288:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100206f0, loop288
+li $t3, 0x100208f4
+loop289:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1002090c, loop289
+li $t3, 0x10020938
+loop290:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1002094c, loop290
+li $t3, 0x10020a9c
+loop291:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020ab0, loop291
+li $t3, 0x10020adc
+loop292:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020af8, loop292
+li $t3, 0x10020cf0
+loop293:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020d08, loop293
+li $t3, 0x10020ee4
+loop294:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10020efc, loop294
+li $t3, 0x100210ec
+loop295:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10021100, loop295
+li $t3, 0x100212ec
+loop296:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10021300, loop296
+li $t3, 0x100214e8
+loop297:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100214fc, loop297
+li $t3, 0x100216f0
+loop298:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10021704, loop298
+li $t3, 0x100218e4
+loop299:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100218f8, loop299
+li $t3, 0x10021af4
+loop300:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10021b04, loop300
+li $t3, 0x10021ce0
+loop301:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10021cf4, loop301
+li $t3, 0x10021ef4
+loop302:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10021f08, loop302
+li $t3, 0x100220e0
+loop303:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100220f4, loop303
+li $t3, 0x10022108
+loop304:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100222e4, loop304
+li $t3, 0x100222f8
+loop305:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10022308, loop305
+li $t3, 0x100224e0
+loop306:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100224f0, loop306
+li $t3, 0x10022504
+loop307:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100226e8, loop307
+li $t3, 0x100226f8
+loop308:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10022708, loop308
+li $t3, 0x100228e0
+loop309:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100228f0, loop309
+li $t3, 0x10022904
+loop310:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10022ae8, loop310
+li $t3, 0x10022af8
+loop311:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10022b08, loop311
+li $t3, 0x10022ce0
+loop312:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10022cf0, loop312
+li $t3, 0x10022ef8
+loop313:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10022f08, loop313
+li $t3, 0x100230e0
+loop314:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100230f4, loop314
+li $t3, 0x100232f8
+loop315:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10023308, loop315
+li $t3, 0x100234e0
+loop316:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100234f4, loop316
+li $t3, 0x100236f4
+loop317:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10023708, loop317
+li $t3, 0x100238e4
+loop318:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100238f8, loop318
+li $t3, 0x100239ac
+loop319:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10023a40, loop319
+li $t3, 0x10023af0
+loop320:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10023b04, loop320
+li $t3, 0x10023ce8
+loop321:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10023cfc, loop321
+li $t3, 0x10023da8
+loop322:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10023e44, loop322
+li $t3, 0x10023eec
+loop323:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10023f00, loop323
+li $t3, 0x100240ec
+loop324:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10024100, loop324
+li $t3, 0x100241ac
+loop325:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10024240, loop325
+li $t3, 0x100242e8
+loop326:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100242fc, loop326
+li $t3, 0x100244f0
+loop327:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10024508, loop327
+li $t3, 0x100246e0
+loop328:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100246f8, loop328
+li $t3, 0x100248f4
+loop329:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10024910, loop329
+li $t3, 0x10024adc
+loop330:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10024af4, loop330
+li $t3, 0x10024cfc
+loop331:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10024d14, loop331
+li $t3, 0x10024ed4
+loop332:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10024eec, loop332
+li $t3, 0x10025104
+loop333:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1002511c, loop333
+li $t3, 0x100252cc
+loop334:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100252e8, loop334
+li $t3, 0x1002550c
+loop335:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10025524, loop335
+li $t3, 0x100256c4
+loop336:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100256e0, loop336
+li $t3, 0x10025914
+loop337:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10025930, loop337
+li $t3, 0x10025abc
+loop338:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10025ad8, loop338
+li $t3, 0x10025d18
+loop339:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10025d38, loop339
+li $t3, 0x10025eb4
+loop340:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10025ed0, loop340
+li $t3, 0x10026124
+loop341:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10026140, loop341
+li $t3, 0x100262a8
+loop342:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100262c8, loop342
+li $t3, 0x1002652c
+loop343:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x1002654c, loop343
+li $t3, 0x100266a0
+loop344:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100266c0, loop344
+li $t3, 0x10026934
+loop345:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10026958, loop345
+li $t3, 0x10026a94
+loop346:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10026ab4, loop346
+li $t3, 0x10026d40
+loop347:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10026d64, loop347
+li $t3, 0x10026e84
+loop348:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10026ea8, loop348
+li $t3, 0x1002714c
+loop349:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10027170, loop349
+li $t3, 0x10027278
+loop350:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100272a0, loop350
+li $t3, 0x10027558
+loop351:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10027580, loop351
+li $t3, 0x10027668
+loop352:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10027694, loop352
+li $t3, 0x10027964
+loop353:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10027990, loop353
+li $t3, 0x10027a5c
+loop354:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10027a88, loop354
+li $t3, 0x10027d70
+loop355:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10027da4, loop355
+li $t3, 0x10027e48
+loop356:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10027e78, loop356
+li $t3, 0x10028180
+loop357:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x100281bc, loop357
+li $t3, 0x1002822c
+loop358:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10028268, loop358
+li $t3, 0x10028594
+loop359:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10028658, loop359
+li $t3, 0x100289a8
+loop360:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10028a40, loop360
+li $t3, 0x10028dc4
+loop361:
+sw $t1, 0($t3)
+addi $t3, $t3, 4
+blt $t3, 0x10028e24, loop361

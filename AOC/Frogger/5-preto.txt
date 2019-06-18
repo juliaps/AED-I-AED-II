@@ -1,0 +1,2 @@
+li $t1, 0 #atribui a cor
+
