@@ -2,4 +2,4 @@
 
 ## Requirements 
 
-Install Mars from [Mars MIPS Simulator] (http://courses.missouristate.edu/KenVollmar/mars/download.htm)
+Install Mars from http://courses.missouristate.edu/KenVollmar/mars/download.htm
