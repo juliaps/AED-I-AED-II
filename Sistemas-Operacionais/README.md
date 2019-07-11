@@ -1,5 +1,5 @@
-# Sistemas-Operacionais
+# Operating Systems
 
-try : gcc -o name name_file.c 
+try : gcc -o name_exec name_file.c
 
-or  gcc -o name name_file.c -lpthread
+or  gcc -o name_exec name_file.c -lpthread
