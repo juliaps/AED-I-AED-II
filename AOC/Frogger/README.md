@@ -1,4 +1,4 @@
-# Frogger :frogger
+# Frogger :frog:
 
 ## Requirements 
 
