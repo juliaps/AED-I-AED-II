@@ -1,0 +1,10 @@
+mkdir C2
+mkdir C3
+mkdir RC
+mkdir RPC
+mkdir RPS
+mkdir RPX
+mkdir RS
+mkdir RX
+mkdir S
+mkdir X
