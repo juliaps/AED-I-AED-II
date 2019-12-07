@@ -1,0 +1,12 @@
+mkdir AS1R1
+mkdir AS1R2
+mkdir AS1R3
+mkdir AS1R4
+mkdir AS2R1
+mkdir AS2R2
+mkdir AS2R3
+mkdir AS2R4
+mkdir AS3R1
+mkdir AS3R2
+mkdir AS3R3
+mkdir AS3R4

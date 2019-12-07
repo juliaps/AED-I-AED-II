@@ -1,0 +1,4 @@
+ifconfig eth0 203.0.113.3/24
+ifconfig eth1 203.0.113.8/24
+route add default gw 203.0.113.1
+/etc/init.d/zebra start
