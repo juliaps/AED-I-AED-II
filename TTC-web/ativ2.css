@@ -1,0 +1,49 @@
+.navy {
+	color: #000080;
+}
+
+body {
+	padding: 2rem;
+}
+
+.info {
+	margin-left: 20rem;
+}
+
+h3 {
+	color: #800000; 
+	padding: 0.3rem;
+}
+
+h4 {
+	color: #800000; 
+	padding: 0.3rem;
+}
+
+img {
+	padding: 1rem;
+}
+
+th{
+  text-align: center;
+  background-color: #000080; 
+  color: white;
+}
+
+th:nth-child(even) {
+  background-color: #000080; 
+  color: white;
+}
+
+table {
+	color: #800000; 
+	width: 100%;
+	border-spacing: 5px;
+	border-collapse: collapse;
+}
+
+footer {
+	color: #800000; 
+  	text-align: center;
+  	background-color: #F0E6FF; 
+}
