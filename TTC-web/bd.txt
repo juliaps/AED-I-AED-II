@@ -1,0 +1,13 @@
+create database VIAGENS;
+use database VIAGENS;
+
+create table COMENTARIO (codc int not null primary key,  codv int not null
+,nome varchar(40), email varchar (40), localizacao varchar(1), comentario varchar(100),
+foreign key (codv) references VIAGEM (codv));
+
+create table VIAGEM (codv int not null primary key, cidade varchar
+(40), estado varchar(40), ano int, descricao varchar(100));
+
+create table PASSEIOS (codp int not null primary key, codv int not null,
+local varchar (40), preco float, descricao varchar(40),
+foreign key (codv) references VIAGEM (codv));

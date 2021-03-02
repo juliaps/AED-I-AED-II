@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> Confeitaria da Ju - Busca </title>
+<meta charset="utf-8">
+</head>
+<body>
+	<h5> Digite o nome do produto que deseja encontrar:</h5>
+	<form method="POST" action="busca.php">
+		<label for="opcoes">Escolha em que ordem: </label>
+		<select id="opcoes" name="opcoes">
+		  <option value="precoc">Preço (crescente)</option>
+		  <option value="precod">Preço (decrescente) </option>
+		  <option value="nomec">Nome (crescente)</option>
+		  <option value="nomed">Nome (decrescente) </option>
+		</select>
+		<label>Nome do produto:</label><input type="text" name="nproduto" id="nproduto"><br>
+		<input type="submit" value="Buscar" id="buscar" name="buscar">
+	</form>
+	<a href="principal.html">Página Principal</a><br>
+	<a href="login.html">Sair</a>
+</body>
+</html>

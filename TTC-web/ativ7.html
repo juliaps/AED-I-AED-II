@@ -1,0 +1,40 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <title> Doces da confeitaria da Ju</title>
+</head>
+<body>
+
+<h1> Doces da confeitaria da Ju</h1>
+<h2>Atividade 7 - PHP + MySQL</h2>
+
+<form method="POST" action="/produtos.php">
+  <label for="opcoes">Escolha o que deseja fazer: </label>
+  <select id="opcoes" name="opcoes">
+    <option value="inserir">Inserir</option>
+    <option value="editar">Editar</option>
+    <option value="excluir">Excluir</option>
+  </select>
+
+  <br><br>
+
+  <label for="nome">Nome: </label><br>
+  <input type="text" id="nome" name="nome"><br><br>
+  <label for="descricao">Descrição: </label><br>
+  <input type="text" id="descricao" name="descricao"><br><br>
+  <label for="tamanho">Tamanho: </label><br>
+  <input type="text" id="tamanho" name="tamanho"><br><br>
+  <label for="preco">Preço: </label><br>
+  <input type="number" id="preco" name="preco"><br><br>
+  <label for="id">ID (Se desejar excluir ou editar algum registro, inserir o id): </label><br>
+  <input type="number" id="id" name="id"><br><br>
+
+
+
+  <input type="submit" value="Enviar">
+</form>
+  <a href="principal.html">Página Principal</a>
+  <a href="login.html">Sair</a> 
+
+</body>
+</html>

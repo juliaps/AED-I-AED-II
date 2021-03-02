@@ -1,0 +1,1 @@
+O site da Confeitaria da Ju foi criado para realizar controle dos produtos feitos por ela. Dessa forma é possível informar para os clientes os produtos disponíveis e suas informações, além de facilitar na busca de alguns de seus doces o que agiliza no atendimento.
